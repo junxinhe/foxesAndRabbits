@@ -59,11 +59,4 @@ public class Counter
     {
         count = 0;
     }
-    
-    /**
-     * added by Chris
-     */
-    public String toString() {
-    	return name + " " + count;
-    }
 }
